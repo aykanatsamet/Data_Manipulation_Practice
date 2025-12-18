@@ -8,14 +8,15 @@ Amacım, farklı veri setleri üzerinde çalışarak ham veriyi işleme (data ma
 * **Python**
 * **Pandas & NumPy:** Veri manipülasyonu için.
 * **Matplotlib & Seaborn:** Veri görselleştirme için.
+* **Scikit-learn**
 
 ## 📈 Gelişim Takibi
 
 Aşağıdaki tablodan günlük olarak yaptığım çalışmaları ve odaklandığım teknikleri inceleyebilirsiniz.
 
-| Gün | Veri Seti | Odaklandığım Konular | Notebook |
-| :---: | :--- | :--- | :---: |
-| **1** |California Ev Verisi | Eksik veri doldurma (Imputation), `fillna`, `dropna` |
+| Gün | Veri Seti | 
+| :---: | :--- |
+| **1** |California Ev Verisi | 
 
 ---
 *Bu proje sürekli geliştirilmektedir.*
