@@ -17,6 +17,7 @@ Aşağıdaki tablodan günlük olarak yaptığım çalışmaları ve odaklandı�
 | Gün | Veri Seti | 
 | :---: | :--- |
 | **1** |California Ev Verisi | 
+| **2** |Diamond Verisi| 
 
 ---
 *Bu proje sürekli geliştirilmektedir.*
