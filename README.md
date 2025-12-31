@@ -6,7 +6,7 @@ Bu repo **Data Scientist** hedefim için portfolio projelerimi içerir.
 
 1. **California Housing EDA & Model**  
 2. **Diamond Prices**  
-3. **SQL Sales Report Analysis**
+
 
 ---
 
