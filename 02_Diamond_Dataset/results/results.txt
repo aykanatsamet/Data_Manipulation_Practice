@@ -8,7 +8,7 @@ DIAMOND PRICE PREDICTION - MODEL RESULTS
   * RMSE: ~1300 $
 
 - Polynomial Regression (Degree 2):
-  * R2 Score: ~0.96 (Significantly Better!)
+  * R2 Score: ~0.96 
   * MAE: ~400 $
   * RMSE: ~800 $
 
