@@ -13,6 +13,7 @@ This repository contains my portfolio projects for the **Data Scientist** goal.
 ## 📌 SKILLS
 
 ✔ Python
+
 ✔ Pandas
 ✔ Numpy
 ✔ Matplotlib - Seaborn
