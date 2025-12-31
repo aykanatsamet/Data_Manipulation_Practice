@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Bu repo **Data Scientist** hedefim için portfolio projelerimi içerir.
+Bu repo **Data Scientist** hedefi için portfolio projelerimi içerir.
 
 ## 📁 Projeler
 
