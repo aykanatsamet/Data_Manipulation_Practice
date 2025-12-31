@@ -14,6 +14,8 @@ Bu repo **Data Scientist** hedefi için portfolio projelerimi içerir.
 
 ✔ Python  
 ✔ Pandas  
-✔ SQL  
+✔ Numpy  
+✔ Matplotlib - Seaborn
 ✔ Scikit-learn  
+✔ SQL  
 ✔ Data Visualization
