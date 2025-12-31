@@ -1,31 +1,39 @@
-
 # Data Science Portfolio
 
-This repository contains my portfolio projects for the **Data Scientist** goal.
-
-## 📁 Projects
-
-1. **California Housing EDA & Model**
-2. **Diamond Prices**
+This repository presents selected data science projects developed as part of my preparation for a career in **Data Science and Machine Learning**.  
+The focus is on end-to-end workflows including data analysis, feature engineering, modeling, and result interpretation.
 
 ---
 
-## 📌 Skills
+## 🎯 Career Goal
+Aspiring **Data Scientist** with a strong interest in applied machine learning and responsible AI, particularly in data-driven decision-making contexts.
 
-- Python
+---
 
-- Pandas
+## 📁 Selected Projects
 
-- Numpy
+### 1️⃣ California Housing – EDA & Price Prediction
+- Exploratory Data Analysis and regression modeling on real-world housing data
+- Compared Linear Regression and Random Forest models
+- Focused on feature importance and model evaluation  
+➡️ [Project Repository](./01_California_Housing)
 
-- Matplotlib - Seaborn
+### 2️⃣ Diamond Prices – Data Analysis
+- Data cleaning and exploratory analysis on diamond pricing data
+- Visualization of feature relationships and pricing patterns  
+➡️ [Project Repository](./02_Diamond_Dataset)
 
-- Scikit-learn
+---
 
--  SQL
+## 🧠 Core Skills Demonstrated
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn (Regression Models)  
+- **Databases:** SQL  
+- **Data Storytelling:** Interpreting and communicating insights
 
--  Data Visualization
+---
 
-
-
-
+## 📌 Notes
+These projects are continuously updated and reflect my ongoing learning process in data science and machine learning.
