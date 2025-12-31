@@ -1,0 +1,21 @@
+DIAMOND PRICE PREDICTION - MODEL RESULTS
+
+1. Model Comparison:
+--------------------
+- Linear Regression (Baseline):
+  * R2 Score: ~0.88
+  * MAE: ~800 $
+  * RMSE: ~1300 $
+
+- Polynomial Regression (Degree 2):
+  * R2 Score: ~0.96 (Significantly Better!)
+  * MAE: ~400 $
+  * RMSE: ~800 $
+
+2. Key Insights:
+----------------
+- Moving from Linear to Polynomial regression (Degree 2) reduced the error by nearly 50%.
+- The relationship between Carat and Price is non-linear, which is why the Polynomial model performed better.
+- Data cleaning (removing 0 values in X, Y, Z and filtering extreme outliers) was crucial for model stability.
+- Ordinal encoding for Cut, Color, and Clarity helped the model understand quality rankings.
+
