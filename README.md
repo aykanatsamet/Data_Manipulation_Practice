@@ -1,23 +1,19 @@
-# 🚀 Günlük Veri Manipülasyonu Çalışmaları
+# Data Science Portfolio
 
-Merhaba! Bu repoda, veri bilimi ve makine öğrenmesi yolculuğumda kendimi geliştirmek için başlattığım **"Her Gün Bir Veri Seti"** çalışmamı paylaşıyorum. 
+Bu repo **Data Scientist** hedefim için portfolio projelerimi içerir.
 
-Amacım, farklı veri setleri üzerinde çalışarak ham veriyi işleme (data manipulation), temizleme ve analiz etme yeteneklerimi ileri seviyeye taşımak.
+## 📁 Projeler
 
-## 🧰 Kullandığım Teknolojiler
-* **Python**
-* **Pandas & NumPy:** Veri manipülasyonu için.
-* **Matplotlib & Seaborn:** Veri görselleştirme için.
-* **Scikit-learn:** Model geliştirmek için.
-
-## 📈 Gelişim Takibi
-
-Aşağıdaki tablodan günlük olarak yaptığım çalışmaları ve odaklandığım teknikleri inceleyebilirsiniz.
-
-| Gün | Veri Seti | 
-| :---: | :--- |
-| **1** |California Ev Verisi | 
-| **2** |Diamond Verisi| 
+1. **California Housing EDA & Model**  
+2. **Diamond Prices**  
+3. **SQL Sales Report Analysis**
 
 ---
-*Bu proje sürekli geliştirilmektedir.*
+
+## 📌 YETENEKLER
+
+✔ Python  
+✔ Pandas  
+✔ SQL  
+✔ Scikit-learn  
+✔ Data Visualization
