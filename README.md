@@ -1,21 +1,24 @@
+
 # Data Science Portfolio
 
-Bu repo **Data Scientist** hedefi için portfolio projelerimi içerir.
+This repository contains my portfolio projects for the **Data Scientist** goal.
 
-## 📁 Projeler
+## 📁 Projects
 
-1. **California Housing EDA & Model**  
-2. **Diamond Prices**  
-
+1. **California Housing EDA & Model**
+2. **Diamond Prices**
 
 ---
 
-## 📌 YETENEKLER
+## 📌 SKILLS
 
-✔ Python  
-✔ Pandas  
-✔ Numpy  
+✔ Python
+✔ Pandas
+✔ Numpy
 ✔ Matplotlib - Seaborn
-✔ Scikit-learn  
-✔ SQL  
+✔ Scikit-learn
+✔ SQL
 ✔ Data Visualization
+
+
+
