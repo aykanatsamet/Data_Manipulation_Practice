@@ -23,6 +23,13 @@ Aspiring **Data Scientist** with a strong interest in applied machine learning a
 - Visualization of feature relationships and pricing patterns  
 ➡️ [Project Repository](./02_Diamond_Dataset)
 
+### 3️⃣ Online Retail Customer Segmentation (RFM + Clustering)
+- End-to-end customer segmentation on transactional retail data
+- Feature engineering using RFM (Recency, Frequency, Monetary) analysis
+- Unsupervised learning with K-Means clustering and cluster interpretation
+- Business insights, limitations, and ethical considerations included  
+➡️ [Project Repository](./03_Online-retail-customer-segmentation)
+
 ---
 
 ## 🧠 Core Skills Demonstrated
