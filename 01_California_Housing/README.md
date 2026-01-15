@@ -26,10 +26,6 @@ To run this project, you need the following Python libraries installed:
 - `matplotlib`
 - `scikit-learn`
 
-You can install them via pip:
-```bash
-pip install pandas numpy seaborn matplotlib scikit-learn
-
 
 ---
 
