@@ -66,3 +66,11 @@ between modeling and interpretation stages.
 - Scikit-learn
 - Jupyter Notebook
 
+
+## Academic & Professional Context
+This project was developed as part of my data science portfolio in preparation for
+graduate-level studies in Data Science and Artificial Intelligence.
+
+It reflects my understanding of end-to-end data science workflows and my ability
+to apply machine learning techniques to real-world inspired problems.
+
