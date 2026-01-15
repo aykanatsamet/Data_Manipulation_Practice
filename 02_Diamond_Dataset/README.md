@@ -32,3 +32,13 @@ The Polynomial model shows a significant improvement, proving that diamond price
 1. Clone the repository.
 2. Install requirements: `pip install pandas seaborn scikit-learn matplotlib`.
 3. Open `notebooks/Diamond_Dataset.ipynb` to see the full analysis.
+
+---
+
+## Academic & Professional Context
+This project was developed as part of my data science portfolio in preparation for
+graduate-level studies in Data Science and Artificial Intelligence.
+
+It reflects my understanding of end-to-end data science workflows and my ability
+to apply machine learning techniques to real-world inspired problems.
+
