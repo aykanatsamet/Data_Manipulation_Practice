@@ -1,1 +1,1 @@
-Reklam dataset
+Reklam dataseti incelendi.
